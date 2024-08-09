@@ -1,0 +1,35 @@
+How to find the length of a string in C?
+How to concatenate two strings in C?
+How to compare two strings in C?
+How to copy one string to another in C?
+How to convert a string to uppercase in C?
+How to convert a string to lowercase in C?
+How to reverse a string in C?
+How to check if a string is a palindrome in C?
+How to extract a substring from a string in C?
+How to split a string into tokens in C?
+How to replace a substring in a string in C?
+How to convert a string to an integer in C?
+How to convert an integer to a string in C?
+How to trim leading and trailing spaces from a string in C?
+How to find the occurrence of a substring in a string in C?
+How to check if a string contains only digits in C?
+How to check if a string contains only alphabets in C?
+How to remove a specific character from a string in C?
+How to count the occurrences of a specific character in a string in C?
+How to tokenize a string using strtok() function in C?
+How to convert a string to a floating-point number in C?
+How to format a string using sprintf() function in C?
+How to search for a substring within a string in C?
+How to sort an array of strings in C?
+How to implement basic string manipulation functions (e.g., strlen(), strcpy(), etc.) without using library functions in C?
+How to dynamically allocate memory for strings in C using malloc() function?
+How to free dynamically allocated memory for strings in C using free() function?
+How to handle input/output of strings in file handling operations in C?
+How to implement basic error handling and validation for string inputs in C?
+How to efficiently search and replace multiple occurrences of a substring in a string in C?
+How to implement a basic text-based menu system using strings in C?
+How to implement a simple string encryption/decryption algorithm in C?
+How to parse a string formatted according to a specific pattern in C?
+How to implement a basic string hashing function in C?
+How to implement a basic string compression algorithm in C?
